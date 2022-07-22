@@ -1,0 +1,16 @@
+{
+    "activity": "Test bot deneme",
+    "token": "OTk4ODkxMjAxMTQwODg3NTky.Gyt__A.dW09JRqS7uWvWLEbQ3Fo-6mOIbJFWl7sGY5P40",
+    "server": "Test bot deneme",
+	"prefix": "!",
+    "enableRoleAssign": false,
+    "role": "Member",
+    "handlerInterval": 500,
+    "sqlConfig": {
+        "server": "WIN-IIL78PHS490",
+        "user": "sa",
+        "password": "SroLex1",
+        "database": "DiscordBot"
+
+    }
+}
